@@ -49,6 +49,7 @@ Here are some of my initial LaTeX application files. The source links for the **
 - **Compile Configuration 2:** [Force Recipe Usage](https://github.com/James-Yu/LaTeX-Workshop/wiki/Compile#latex-workshoplatexbuildforcerecipeusage)
 - **CSDN Guide:** [CSDN Article](https://blog.csdn.net/qq_44089921/article/details/107719981)
 - **Online Templates:** [Overleaf](https://cn.overleaf.com/latex/templates?)
+- **Overleaf Workshop:** 一个vscode中的插件，可以在本地进行overleaf的编译，并且实时同步，具体的教学视频见：[科研论文党王炸组合overleaf+Copilot](https://www.bilibili.com/video/BV1RQALePEuu?vd_source=4fd6c4265e65c0785c912874692a3971)
 
 ### 3.3 Code
 
