@@ -39,6 +39,7 @@
 
 - **Table Generator:** [LaTeX Tables](https://www.latex-tables.com/)
 - **Beamer Theme Repository:** [LaTeX-Beamer-Theme-Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview)
+- **Prism:** [an online AI latex editor by OpenAI](https://prism.openai.com/)
 
 ### 3.2 Introduction
 
