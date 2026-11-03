@@ -1,1 +1,16 @@
 *.pdf
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.log
+*.listing
+*.out
+*.synctex.gz
+*.toc
+*.xdv
